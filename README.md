@@ -9,4 +9,4 @@ Multiplication
 Division
 Calculation history
 Simple menu
-Preview
+
