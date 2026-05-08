@@ -1,2 +1,12 @@
-# C-Calculator-With-History-
-C++ Calculator With History 
+Simple C++ Calculator
+
+A simple calculator made with C++.
+
+Features
+Addition
+Subtraction
+Multiplication
+Division
+Calculation history
+Simple menu
+Preview
